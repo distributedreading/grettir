@@ -9,3 +9,7 @@ Visit the interactive version of this [Tableau](http://public.tableau.com/en-us/
 * [Dimension Browser](http://www.distributedreading.net)
 * [Formula Tree](http://www.distributedreading.net/tree.html)
 * [Principal Component Analysis](http://www.distributedreading.net/pca/)
+
+## Notes
+
+[Evernote notebook](https://www.evernote.com/pub/preadaptation/temper)
