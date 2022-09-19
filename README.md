@@ -6,9 +6,9 @@ Visit the interactive version of this [Tableau](http://public.tableau.com/en-us/
 
 ## Live data vis
 
-* [Dimension Browser](http://www.distributedreading.net)
-* [Formula Tree](http://www.distributedreading.net/tree.html)
-* [Principal Component Analysis](http://www.distributedreading.net/pca/)
+* [Dimension Browser](https://distributedreading.github.io/grettir)
+* [Formula Tree](https://distributedreading.github.io/grettir/tree.html)
+* [Principal Component Analysis](https://distributedreading.github.io/grettir/pca)
 
 ## Notes
 
